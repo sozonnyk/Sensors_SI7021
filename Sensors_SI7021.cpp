@@ -1,4 +1,4 @@
-#include "Sensors.h"
+#include "Sensors_SI7021.h"
 
 #define NETWORKID 100 //the same on all nodes that talk to each other
 #define GATEWAYID 1
